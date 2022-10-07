@@ -1,1 +1,18 @@
+body{
+background-color: ;
+}
 
+Estilizar o título principal do seu site
+ h1{
+color: black; 
+font-family: Arial, Helvetica, sans-serif;
+background: burlywood;
+}
+
+Estilizar os parágrafos
+p{
+color:black ;
+font-family: ;
+font-size: ;
+background: ;
+}
